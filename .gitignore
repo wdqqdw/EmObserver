@@ -1,0 +1,17 @@
+# Downloaded datasets and generated results
+public_data/
+outputs/
+training_outputs/
+
+# Local model weights
+models/
+
+# Credentials and local configuration
+.env
+.env.*
+
+# Python and platform artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+.cache/
