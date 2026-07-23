@@ -1,4 +1,4 @@
-# MVEI Expansion: Public Code
+# EmObserver: Official Implementation
 
 Official code repository of "MVEI & EmObserver: Empowering MLLM-Oriented Visual Emotional Intelligence via Emotion Statement Judgement".
 
