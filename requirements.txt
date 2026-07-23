@@ -1,0 +1,10 @@
+# Core evaluation and common inference dependencies.
+# Individual model repositories may impose additional version constraints.
+openai
+Pillow
+qwen-vl-utils
+torch
+torchvision
+tqdm
+transformers
+vllm

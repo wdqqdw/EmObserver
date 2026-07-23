@@ -1,0 +1,9 @@
+git+https://github.com/modelscope/ms-swift.git@9ff8fbe3e4305b650e76a998d19a8c8a1dcfed3c
+decord
+deepspeed==0.16.0
+openai
+protobuf==3.20.3
+qwen_vl_utils>=0.0.14
+transformers>=4.57
+vllm
+
